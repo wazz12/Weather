@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Tweather</string>
-    <string name="current_temperature">Current temperature</string>
-    <string name="temperature">%1$f °C / %2$f °F</string>
+    <string name="temperature">%1$.2f °C / %2$.2f °F</string>
+    <string name="current_temperature">Current Temperature</string>
+    <string name="current_wind_speed">Current Wind Speed</string>
+    <string name="std_dev_temperature">Standard Deviation Temperature</string>
+    <string name="next_5_days_weather">Next 5 days Weather</string>
+    <string name="error_message">Error occurred while retrieving data</string>
+    <string name="no_network_error_message">No network available. Please try again later.</string>
 </resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Font Size-->
+    <dimen name="app_font_size_twenty_five_sp">25sp</dimen>
+    <dimen name="app_font_size_sixteen_sp">16sp</dimen>
+
+</resources>
